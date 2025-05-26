@@ -1,0 +1,42 @@
+* citações: remover aspas de blocos. Ex:
+```
+> "De acordo com o Defense One , as Forças de Operações Especiais
+> alcance."
+
+deve ficar assim (NÃO REMOVA O SINAL ">" que intica quote em markdown):
+
+> De acordo com o Defense One , as Forças de Operações Especiais
+> alcance.
+```
+
+
+
+* Sobre números:
+```
+De 0 a 10: Escrever por extenso (ex: "cinco", "nove"). Além de 100 (cem) e 1000 (mil) SOMENTE!. 
+Ex: "Mais de 9 casas" --> "Mais de nove casas". Acima de 10: "Mais de onze filhos" --> "mais de 11 filhos".
+De 11 em diante: Escrever em algarismos (ex: "15"). 2017 por exemplo vai ser "2017" e NÃO "dois mil e dezessete"!
+Números acima de mil: Usar algarismos combinados com a palavra para números redondos (ex: "3 mil", "18,7 mil"). 
+Números precisos: Usar algarismos para números que não são inteiros ou precisam ser precisos (ex: "12.357", "20.004"). 
+Exceções e considerações:
+Início de frase:
+Números que iniciam uma frase devem ser escritos por extenso, mesmo que normalmente se escrevam com algarismos (ex: "Cinco estudantes" em vez de "5 estudantes"). 
+Datas:
+Datas são geralmente escritas com algarismos (ex: "14/09/2017"). No entanto, em textos normais, pode-se usar a forma por extenso (ex: "14 de setembro de 2017"). 
+Valores monetários:
+Números em valores monetários são sempre escritos com algarismos (ex: "R$ 100,00"). 
+Medidas, idade, tempo, números de páginas:
+Geralmente escritos com algarismos (ex: "2 metros", "32 anos", "8h00", "página 4"). 
+Porcentagens:
+Geralmente escritas com algarismos (ex: "51%"). 
+Proporções:
+Geralmente escritas com algarismos (ex: "3:1"). 
+Em títulos, tabelas, infográficos:
+A forma em algarismos é geralmente preferida, especialmente para números grandes. 
+Nomes próprios:
+Exceções como "Rua Quinze de Novembro" são escritas com os números por extenso como parte do nome. 
+Pontos importantes:
+Ponto nos números: Usar ponto para separar os milhares nos números (ex: "1.342"). 
+Zero na casa decimal: Não usar zero na casa decimal (ex: "5%" e não "5,0%"). 
+Separador decimal: Usar vírgula para separar a parte inteira da parte decimal em números decimais.
+```
